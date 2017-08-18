@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BottomBar</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="cardapio">Cardápio</string>
+
+    <string name="pedidos">Pedidos</string>
+
+    <!-- View cardapio -->
+    <string name="tabCardapio">@string/cardapio</string>
+    <string name="tabAvaliacoes">Avaliações</string>
+    <string name="tabSobre">Sobre</string>
+
+    <string name="textAvaliacoes">@string/tabAvaliacoes</string>
+
+</resources>
